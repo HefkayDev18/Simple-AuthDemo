@@ -1,0 +1,50 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Environment variables
+.env
+
+# Publish directory
+publish/
+
+# Visual Studio specific
+.vscode/
+.vs/
+*.vspxproj.user
+.vscode/
+.vs/
+*.sln
+*.dbmdl
+*.jfm
+*.pdb
+.ionide
+.vscode
+.vscode-test/
+.history/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Rider-specific files
+.idea/
+*.sln.iml
