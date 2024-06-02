@@ -9,8 +9,8 @@
 Generated/
 
 # Build results
-[Bb]in/
-[Oo]bj/
+bin/
+obj/
 
 # Logs
 *.log
